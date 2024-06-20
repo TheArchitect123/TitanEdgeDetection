@@ -1,6 +1,6 @@
 
 <p align="center">
-    <a href="https://github.com/TheArchitect123"><img src="Dart.svg" align="center" width=150/></a>
+    <a href="https://github.com/TheArchitect123"><img src="Dart.svg" align="center" width=250/></a>
 </p>
 
 <p align="center">
