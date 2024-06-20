@@ -1,6 +1,6 @@
 //
 //  ScanPhotoViewController.swift
-//  titan_edge_detection
+//  atlas
 //
 //  Created by Henry Leung on 3/9/2021.
 //

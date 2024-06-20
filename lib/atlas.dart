@@ -2,12 +2,10 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 
-class EdgeDetection {
-  static const MethodChannel _channel =
-      const MethodChannel('titan_edge_detection');
+class Atlas {
+  static const MethodChannel _channel = const MethodChannel('atlas');
 
-  /// Call this method to scan the object edge in live camera.
-  static Future<bool> detectEdge(
+  static Future<bool> startScanningForEdges(
     String saveTo, {
     bool canUseGallery = true,
     String androidScanTitle = "Scanning",
@@ -26,7 +24,7 @@ class EdgeDetection {
   }
 
   /// Call this method to scan the object edge from a gallery image.
-  static Future<bool> detectEdgeFromGallery(
+  static Future<bool> startScanningFromGallery(
     String saveTo, {
     String androidCropTitle = "Crop",
     String androidCropBlackWhiteTitle = "Black White",

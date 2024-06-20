@@ -1,9 +1,9 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint titan_edge_detection.podspec` to validate before publishing.
+# Run `pod lib lint atlas.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'titan_edge_detection'
+  s.name             = 'atlas'
   s.version          = '1.1.3'
   s.summary          = 'Plugin to detect edges of objects'
   s.description      = <<-DESC

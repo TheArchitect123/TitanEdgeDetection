@@ -1,4 +1,4 @@
-name: titan_edge_detection
+name: atlas
 description: A flutter document scanner powered by OpenCV. Provides Edge Detection + Image Filtering
 version: 1.0.0
 homepage: https://github.com/TheArchitect123/TitanEdgeDetection

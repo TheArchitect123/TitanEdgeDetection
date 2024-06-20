@@ -5,7 +5,7 @@
         android:allowBackup="false"
         android:fullBackupOnly="false"
         android:icon="@mipmap/ic_launcher"
-        android:label="titan_edge_detection_example"
+        android:label="atlas_example"
         tools:replace="android:allowBackup">
         <activity
             android:name=".MainActivity"

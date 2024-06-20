@@ -128,13 +128,13 @@
       "languageVersion": "3.2"
     },
     {
-      "name": "titan_edge_detection",
+      "name": "atlas",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2024-06-20T13:22:00.457909Z",
+  "generated": "2024-06-20T13:45:20.487435Z",
   "generator": "pub",
   "generatorVersion": "3.2.5"
 }

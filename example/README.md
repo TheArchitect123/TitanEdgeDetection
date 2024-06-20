@@ -1,6 +1,6 @@
-# titan_edge_detection_example
+# atlas_example
 
-Demonstrates how to use the titan_edge_detection plugin.
+Demonstrates how to use the atlas plugin.
 
 ## Getting Started
 
